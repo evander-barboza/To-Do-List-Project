@@ -26,8 +26,8 @@ html {
   padding: 2rem;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  max-width: 800px; /* Limit container width */
-  margin: 0 auto; /* Center container horizontally */
+  max-width: 800px; 
+  margin: 0 auto; 
 }
 
 .todo-title {
@@ -46,7 +46,7 @@ html {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 100%; /* Match container width */
+  width: 100%; 
 }
 
 #new-todo {
@@ -79,7 +79,7 @@ html {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  width: 100%; /* Match container width */
+  width: 100%; 
 }
 
 .todo-item {
